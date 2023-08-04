@@ -20,7 +20,7 @@ PROJECT_NAME_FULL: str = "Tomato Detection"
 # * After uploading to instance ##
 ##################################
 LICENSE: License = License.CC0_1_0()
-APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Agricultural()]
+APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Agricultural(is_used=False)]
 CATEGORY: Category = Category.Agriculture()
 
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
