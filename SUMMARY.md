@@ -1,4 +1,4 @@
-**Tomato Detection** is a dataset for object detection tasks. It is used in the agricultural industry. 
+**Tomato Detection** is a dataset for an object detection task. Possible applications of the dataset could be in the agricultural industry. 
 
 The dataset consists of 895 images with 4930 labeled objects belonging to 1 single class (*tomato*).
 
