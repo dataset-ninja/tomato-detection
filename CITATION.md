@@ -7,4 +7,4 @@ url={https://makeml.app/datasets/tomato},
 journal={Make ML}}
 ```
 
-[🔗 Source](https://www.kaggle.com/datasets/andrewmvd/tomato-detection)
+[Source](https://www.kaggle.com/datasets/andrewmvd/tomato-detection)
