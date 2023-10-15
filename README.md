@@ -1,3 +1,3 @@
 # Tomato Detection
 
-Tomato Detection is a dataset for object detection tasks.
+Tomato Detection is a dataset for object detection task.
