@@ -1,6 +1,6 @@
 Dataset **Tomato Detection** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/H/h/kj/GMqqEHB2DHUy1bjalWC5EVZERThhYSYhoJVROjCZgepbHL0fKFtV4LTEjesBwuP6rCmoaftAsuJSXaCnbUXiJoEu834deexbHv68vnpGB5Q8oiwjQ2XWv7rFZZMj.tar)
+ [Download](https://www.dropbox.com/scl/fi/12ut3ma458i5buqfp0n8f/tomato-detection-DatasetNinja.tar?rlkey=klrxpancs0j2c2fktjeksddog&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
